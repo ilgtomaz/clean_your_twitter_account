@@ -1,0 +1,4 @@
+# Internal Folders
+dist
+node_modules
+.vscode
